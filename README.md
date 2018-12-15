@@ -18,3 +18,6 @@ Type | View Own| View Others | Edit | Add
 Student | Yes | No | No | No
 TA | N/A | Yes | No | No
 Lecturer | N/A | Yes | Yes | Yes
+
+# Video Demonstration
+https://youtu.be/_0y-oBIoir0
